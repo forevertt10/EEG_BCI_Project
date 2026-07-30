@@ -1,0 +1,6 @@
+Model,Accuracy
+LDA+CSP,0.6724
+SVM+CSP,0.7586
+Random Forest+CSP,0.7759
+CNN,0.431
+EEGNet,0.7241
