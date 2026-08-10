@@ -30,3 +30,4 @@ results/logs/
 # OS
 .DS_Store
 Thumbs.db
+/notebooks/
