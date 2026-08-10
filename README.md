@@ -318,7 +318,7 @@ EEG_BCI_Project
 
 ---
 
-# 作者
+# 作者  lyy ; 23159100076@stu.xidian.edu.cn
 
 本科科研项目
 
