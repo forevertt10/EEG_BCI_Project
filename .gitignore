@@ -31,3 +31,5 @@ results/logs/
 .DS_Store
 Thumbs.db
 /notebooks/
+*.doc
+*.docx
